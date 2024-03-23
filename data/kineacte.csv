@@ -1,0 +1,83 @@
+texte;cotation
+Rééducation dans le cadre de la prise en charge d'une lombalgie commune Acte soumis à référentiel;RAM 7,49
+Rééducation des conséquences d'une affection du rachis lombo-sacré hors référentiel sans chirurgie ;RAM 7,51
+Rééducation des conséquences d'une affection du rachis lombo-sacré hors référentiel avec chirurgie;RAO 7,49
+Rééducation des conséquences d'une affection du rachis dorsal sans chirurgie;RAM 7,50
+Rééducation des conséquences d'une affection du rachis dorsal avec chirurgie;RAO 7,48
+Rééducation dans le cadre de la prise en charge d'une cervicalgie non spécifique sans atteinte neurologique - Acte soumis à référentiel;RAM 7,47
+Rééducation dans le cadre d'un traumatisme récent du rachis cervical sans lésion neurologique -  Acte soumis à référentiel;RAM 7,48
+Rééducation des conséquences d'une affection du rachis cervical (hors référentiel) sans chirurgie;RAM 7,52
+Rééducation des conséquences d'une affection du rachis cervical (hors référentiel) avec chirurgie;RAO 7,50
+Rééducation des conséquences d'une affection d'au moins deux segments du rachis sans chirurgie;RAM 7,53
+Rééducation des conséquences d'une affection d'au moins deux segments du rachis avec chirurgie sur au moins un segment;RAO 7,51
+Rééducation aprés libération du nerf médian au canal carpien -  Acte soumis à référentiel;RSC 7,49
+Rééducation des conséquences d'une affection du poignet ou main (hors référentiel) non opérée;VSM 7,50
+Rééducation des conséquences d'une affection du poignet ou main (hors référentiel) opérée;VSC 7,51
+Rééducation des conséquences d'une fracture de l'extrémité distale des deux os de l'avant-bras - Acte soumis à référentiel non opérée;RSM 7,51
+Rééducation des conséquences d'une fracture de l'extrémité distale des deux os de l'avant-bras - Acte soumis à référentiel opérée;RSC 7,50
+Rééducation des conséquences d'une fracture avec ou sans luxation du coude chez l'adulte -  Acte soumis à référentiel non opérée;RSM 7,52
+Rééducation des conséquences d'une fracture avec ou sans luxation du coude chez l'adulte -  Acte soumis à référentiel opérée;RSC 7,52
+Rééducation des conséquences d'une affection du coude ou de l'avant-bras (hors référentiel) non opérée;VSM 7,49
+Rééducation des conséquences d'une affection du coude ou de l'avant-bras (hors référentiel) opérée;VSC 7,49
+Rééducation dans le cadre d'une tendinopathie de la coiffe des rotateurs non opérée - Acte soumis à référentiel;RSM 7,49
+Rééducation aprés réinsertion et/ou suture d'un ou de plusieurs tendons de la coiffe des rotateurs de l'épaule, par arthroscopie ou abord direct -  Acte soumis à référentiel;RSC 7,51
+Rééducation des conséquences d'une fracture non opérée de l'extrémité proximale de l'humérus - Acte soumis à référentiel;RSM 7,50
+Rééducation des conséquences d'une affection de l'épaule ou du bras  (hors référentiel) non opérée;VSM 7,48
+Rééducation des conséquences d'une affection de l'épaule ou du bras  (hors référentiel) opérée;VSC 7,49
+Rééducation secondaire à l'affection d'au moins deux segments du même membre supérieur sans chirurgie;VSM 7,51
+Rééducation secondaire à l'affection d'au moins deux segments du même membre supérieur  avec chirurgie sur au moins un segment;VSC 7,52
+Rééducation des conséquences d'une entorse externe récente de cheville-pied (acte avec référentiel pour non opérée) opérée;RIC 7,51
+Rééducation des conséquences d'une entorse externe récente de cheville-pied (acte avec référentiel pour non opérée) non opérée;RIM 7,50
+Rééducation des conséquences d'une affection de la cheville ou pied (hors référentiel) non opérée;VIM 7,50
+Rééducation des conséquences d'une affection de la cheville ou pied (hors référentiel) opérée;VIC 7,51
+Rééducation aprés arthroplastie du genou par prothése totale ou uni-compartimentaire - Acte soumis à référentiel ;RIC 7,52
+Rééducation aprés reconstruction du ligament croisé antérieur du genou - Acte soumis à référentiel ;RIC 7,48
+Rééducation aprés méniscectomie isolée, totale ou subtotale, par arthroscopie Acte soumis à référentiel ;RIC 7,49
+Rééducation des conséquences d'une affection du genou ou de la jambe (hors référentiel) non opérée;VIM 7,51
+Rééducation des conséquences d'une affection du genou ou de la jambe (hors référentiel) opérée;VIC 7,50
+Rééducation aprés arthroplastie de hanche par prothése totale - Acte soumis à référentiel ;RIC 7,50
+Rééducation des conséquences d'une affection de la hanche ou de la cuisse (hors référentiel) non opérée;VIM 7,49
+Rééducation des conséquences d'une affection de la hanche ou de la cuisse (hors référentiel) opérée;VIC 7,49
+Rééducation secondaire à l'affection d'au moins deux segments du même membre inférieur sans chirurgie;VIM 7,52
+Rééducation secondaire à l'affection d'au moins deux segments du même membre inférieur avec chirurgie sur au moins un membre;VIC 7,52
+Rééducation pour déviation du Rachis lombo-sacré ;DRA 7,49
+Rééducation pour déviation du Rachis dorsal;DRA 7,48
+Rééducation pour déviation du Rachis cervical;DRA 7,51
+Rééducation pour déviation portant sur au moins deux segments rachis;DRA 7,50
+Rééducation aprés amputation d'un membre supérieur;APM 7,51
+Rééducation aprés amputation d'un membre inférieur;APM 7,50
+Rééducation secondaire à l'affection d'au moins 2 territoires lésés (hors 2 territoires ou plus du même membre ou 2 territoires ou plus du rachis) sans chirurgie;TER 9,49
+Rééducation secondaire à l'affection d'au moins 2 territoires lésés (hors 2 territoires ou plus du même membre ou 2 territoires ou plus du rachis) avec chirurgie sur au moins un territoire;TER 9,51
+Rééducation aprés amputation d'au moins 2 membres;APM 9,50
+Rééducation des malades atteints de rhumatisme inflammatoire (pelvispondylite, polyarthrite rhumatoéde...) atteinte localisée à un membre ou le tronc;NMI 8
+Rééducation des malades atteints de rhumatisme inflammatoire (pelvispondylite, polyarthrite rhumatoéde...) atteinte de plusieurs membres, ou du tronc et d'un ou plusieurs membres;NMI 9,01
+Rééducation abdominale pré-opératoire ou post-opératoire;RAB 8,01
+Rééducation abdominale du post-partum;RAB 8
+Rééducation des atteintes périphériques radiculaires ou tronculairesé atteintes localisées à un membre ou à la face;NMI 8,5
+Rééducation des atteintes périphériques radiculaires ou tronculaires atteintes intéressant plusieurs membres;NMI 10,01
+Rééducation de l'hémiplégie;NMI 9
+Rééducation de la paraplégie et de la tétraplégie;NMI 11,01
+Rééducation des affections neurologiques stables ou évolutives pouvant regrouper des déficiences diverses (commande musculaire, tonus, sensibilité, équilibre, coordination...) en dehors de l'hémiplégie et de la paraplégie, notamment les affections neurodégénératives localisation des déficiences à un membre et sa racine;NMI 8,51
+Rééducation des affections neurologiques stables ou évolutives pouvant regrouper des déficiences diverses (commande musculaire, tonus, sensibilité, équilibre, coordination...) en dehors de l'hémiplégie et de la paraplégie, notamment les affections neurodégénératives localisation des déficiences à 2 membres ou plus, ou d'un membre et à tout ou partie du tronc et de la face;NMI 10
+Rééducation des malades atteints de myopathie;NMI 10,99
+Rééducation des malades atteints d'encéphalopathie infantile, du stade initial aux conséquences à l'âge adulte;NMI 11
+Rééducation des maladies respiratoires avec désencombrement urgent (bronchiolite du nourrisson, poussée aigué au cours d'une pathologie respiratoire chronique).;ARL 8,49
+Rééducation des maladies respiratoires, obstructives, restrictives ou mixtes (en dehors des situations d'urgence);ARL 8,5
+Rééducation respiratoire préopératoire ou post-opératoire;ARL 8,51
+Prise en charge kinésithérapique respiratoire du patient atteint de mucoviscidose.;ARL 10
+Réadaptation respiratoire kinésithérapique pour les patients atteints de handicap respiratoire chronique et prise en charge individuelle;ARL 28
+Réadaptation respiratoire kinésithérapique pour les patients atteints de handicap respiratoire chronique en prise en charge de groupe de 2 à 4 personnes avec rééducation respiratoire en individuel;ARL 20
+Rééducation maxillo-faciale en dehors de la paralysie faciale;ARL 7,99
+Rééducation vestibulaire et des troubles de l'équilibre;ARL 8
+Rééducation des troubles de la déglutition isolés;ARL 8,01
+Rééducation pour artériopathie des membres inférieurs (claudication, troubles trophiques);RAV 8,01
+Rééducation pour insuffisance veineuse des membres inférieurs avec retentissement articulaire et/ou troubles trophiques;RAV 7,99
+Rééducation pour lymphodémes vrais (aprés chirurgie et/ou radiothérapie, lymphodémes congénitaux) par drainage manuel pour un membre ou pour le cou et la face;RAV 8
+Rééducation pour lymphodémes vrais (aprés chirurgie et/ou radiothérapie, lymphodémes congénitaux) par drainage manuel pour deux membres;RAV 9
+Rééducation pour un lymphodéme du membre supérieur aprés traitement d'un cancer du sein, associée à une rééducation de l'épaule homolatérale à la phase intensive du traitement du lymphodéme (possible supplément bandage multicouche);RAV 15,5 + RAV 1 multicouche un membre ou + RAV 2 multicouche 2 membre
+Rééducation périnéale active sous controle manuel et/ou électrostimulation et/ou biofeedback ;RAB 8,5
+Rééducation analytique et globale, musculo-articulaire des deux membres inférieurs, de la posture, de l'équilibre et de la coordination chez le sujet âgé;RPE 8,5
+Rééducation de la d'ambulation dans le cadre du maintien de l'autonomie de la personne âgée (séance d'une durée de l'ordre de vingt minutes);RPE 6
+Rééducation d'un patient atteint de brélures localisées à un membre ou à un segment de membre;RPB 8
+Rééducation d'un patient atteint de brélures étendues à plusieurs membres et/ou au tronc;RPB 9
+Prise en charge dans le cadre des soins palliatifs, comportant les actes nécessaires en fonction des situations cliniques (mobilisation, massage, drainage bronchique...), cotation journaliére forfaitaire quel que soit le nombre d'interventions;PLL 12

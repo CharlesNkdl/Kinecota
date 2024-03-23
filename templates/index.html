@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Similarity Search</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .search-bar {
+            text-align: center;
+            margin-top: 50px;
+            margin-bottom: 50px;
+        }
+        .table-container {
+            margin-top: 20px;
+        }
+		.disclaimer {
+            margin-top: 20px;
+            font-style: italic;
+            color: #666666;
+        }
+    </style>
+</head>
+<body>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <div class="search-bar">
+                <h1>Aide à la cotation Kiné</h1>
+                <form action="/similarity" method="post">
+                    <input type="text" name="query" class="form-control" placeholder="Entrez votre prescription ici" required>
+                    <button type="submit" class="btn btn-primary mt-2">Rechercher</button>
+                </form>
+            </div>
+        </div>
+    </div>
+<div>
+	<h1> Comment ça marche ? </h1>
+	<p> Entrez un texte en rapport avec l'ordonnance dans la barre de recherche ci-dessus. Le texte sera comparé à une base de données de textes pré-cotés. Les textes les plus similaires seront affichés avec leur cotation. </p>
+	<p> Le modèle étant entrainé sur énormément de mot, mais aussi les réferences de la NGAP, évitez les mots trop commun au sein de la NGAP type : "Rééducation" ou "Prise en charge"</p>
+	<p> Pour plus d'information sur le modèle et la technique, rendez-vous sur l'onglet <a href="/about">A propos</a> </p>
+</div>
+
+</div>
+
+    {% if query %}
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <div class="table-container">
+                <h2>Résultats :</h2>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Similarité</th>
+                            <th>Texte</th>
+                            <th>Cotation</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for similarity, texte, cotation in ref %}
+                        <tr>
+                            <td>{{ similarity }}</td>
+                            <td>{{ texte }}</td>
+                            <td>{{ cotation }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+	<div class="row">
+        <div class="col-md-6 offset-md-3">
+            <p class="disclaimer">Ce site est fourni à titre informatif uniquement. Veuillez effectuer vos cotations avec vos connaissances professionnelles en priorité.</p>
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>
